@@ -45,4 +45,6 @@ Some queries:
 		"A2M"
 	]
 }
-``` 
+```
+
+Source code used to extract this data: [pornobrain/iafd-recommend](http://github.com/pornobrain/iafd-recommend)
