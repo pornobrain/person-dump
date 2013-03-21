@@ -1,7 +1,7 @@
 Load the dump:
 ```
 % tar xvf person-dump.tar.xz
-% mongorestore -d pornobrain pornobrain
+% mongorestore -d pornobrain .
 ```
 
 Some queries:
