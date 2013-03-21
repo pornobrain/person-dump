@@ -6,7 +6,7 @@ Load the dump:
 
 Some queries:
 ```
-% mongo iafd
+% mongo pornobrain
 > db.Person.findOne({name: /sasha.*grey/i}, {birthday: 1, name: 1, aka: 1})
 {
   "_id" : {
